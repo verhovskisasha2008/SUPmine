@@ -1,0 +1,5 @@
+#Maximum time in ticks it takes to open the enchantments editor for an item.
+#Default Value: 12
+# Default: 12
+# Range: 1 ~ 72000
+open_enchantments_editor_ticks = 12
