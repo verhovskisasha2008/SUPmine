@@ -2,10 +2,10 @@
   "version": "1.0",
   "files": [
     {
-      "name": "mods ",
+      "name": "mods",
       "path": "mods",
       "type": "zip",
-      "url": "https://github.com/verhovskisasha2008/SUPmine/releases/download/v1.0/mods1.zip"
+      "url": "https://github.com/verhovskisasha2008/SUPmine/releases/download/v1.0/mods.zip"
     },
     {
       "name": "config",
