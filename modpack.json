@@ -2,22 +2,16 @@
   "version": "1.0",
   "files": [
     {
-      "name": "mods (часть 1)",
+      "name": "mods ",
       "path": "mods",
       "type": "zip",
       "url": "https://github.com/verhovskisasha2008/SUPmine/releases/download/v1.0/mods1.zip"
     },
     {
-      "name": "mods (часть 2)",
-      "path": "mods",
-      "type": "zip",
-      "url": "https://github.com/verhovskisasha2008/SUPmine/releases/download/v1.0/mods2.zip"
-    },
-    {
       "name": "config",
       "path": "config",
       "type": "zip",
-      "url": "https://raw.githubusercontent.com/verhovskisasha2008/SUPmine/main/config.zip"
+      "url": "https://github.com/verhovskisasha2008/SUPmine/releases/download/v1.0/config.zip"
     }
   ]
 }
